@@ -33,5 +33,5 @@ server = http.createServer(function(req, resp){
             
     }
 })
-server.listen(9000);
+server.listen(8000);
 console.log("server listen at 9000")
